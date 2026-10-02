@@ -14,16 +14,14 @@ CHANNEL_NAMES = [
 SPAM_MESSAGE = [
     "@everyone This server has been restructured", "@everyone Server cleanup",
     "@everyone Have a great day!"
-]
-WEBHOOK_NAMES = [
-    'uppa', 'friend', 'random', 'rocket', 'cleaner', 'admin', 'helper'
+
 ]
 ascii_art = r'''
  __   __  ____     ___  ____   __    ___  __ _  ____  ____  ____ 
  / _\ (  )(  _ \   / __)(  _ \ / _\  / __)(  / )(  __)(  _ \/ ___)
 /    \ )(  )   /  ( (__  )   //    \( (__  )  (  ) _)  )   /\___ \
 \_/\_/(__)(__\_)   \___)(__\_)\_/\_/ \___)(__\_)(____)(__\_)(____/
-            MADE BY NAJU ONLY FOR EDUCATIONAL PURPOSE
+            MADE BY RAJ ONLY FOR EDUCATIONAL PURPOSE
 '''
 red_color = "\033[91m"
 reset_color = "\033[0m"
